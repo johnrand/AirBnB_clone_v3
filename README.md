@@ -150,12 +150,26 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+## REST-API
+- What REST means
+- What API means
+- What CORS means
+- What is an API
+- What is a REST API
+- What are other type of APIs
+- Which is the HTTP method to retrieve resource(s)
+- Which is the HTTP method to create a resource
+- Which is the HTTP method to update resource
+- Which is the HTTP method to delete resource
+- How to request REST API
+
 ## Bugs
 No known bugs at this time. 
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+John Randy - [Github](https://github.com/johnrand)
 
 Second part of Airbnb: Joann Vuong
 ## License
